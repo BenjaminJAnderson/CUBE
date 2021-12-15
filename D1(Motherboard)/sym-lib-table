@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "ICM-20948")(type "Legacy")(uri "${KIPRJMOD}/ICM-20948.lib")(options "")(descr ""))
+  (lib (name "TPS62811-Q1")(type "Legacy")(uri "${KIPRJMOD}/TPS62811-Q1.lib")(options "")(descr ""))
+  (lib (name "Adafruit_1.5_128x128_RGB_OLED-eagle-import")(type "Legacy")(uri "/home/benjamin/Documents/KiCAD Projects/CUBE (Ver 3)/Resources/Display/Adafruit_1.5_128x128_RGB_OLED-eagle-import.lib")(options "")(descr ""))
+  (lib (name "D1(Motherboard)-rescue")(type "Legacy")(uri "${KIPRJMOD}/D1(Motherboard)-rescue.lib")(options "")(descr ""))
+  (lib (name "Espressif")(type "Legacy")(uri "/home/benjamin/Documents/KiCAD Projects/CUBE (Ver 3)/Resources/ESP32/ESP32 LIbrary/libraries/Espressif.lib")(options "")(descr ""))
+)
