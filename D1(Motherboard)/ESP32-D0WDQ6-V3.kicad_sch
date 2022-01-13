@@ -1393,7 +1393,7 @@
   (symbol (lib_id "Device:R") (at 58.42 177.8 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 7f33aeb6-17f6-46d8-91bb-8f4ea6e8548f)
-    (property "Reference" "R12" (id 0) (at 58.42 179.07 90)
+    (property "Reference" "R12" (id 0) (at 58.42 180.34 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "0R" (id 1) (at 54.61 181.61 0)
