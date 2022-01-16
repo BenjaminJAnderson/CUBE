@@ -4092,8 +4092,8 @@
     (pin "21" (uuid 76f1c056-002b-44a9-b6ae-829a3c8cc12e))
     (pin "22" (uuid 689710d8-9cf4-41f5-94fb-982f082d9248))
     (pin "23" (uuid 0064a4c6-1d55-41b9-bd1b-595904ac94c7))
-    (pin "24" (uuid 01c88208-3856-4c8f-b9e7-b75c2194edb1))
-    (pin "24" (uuid 01c88208-3856-4c8f-b9e7-b75c2194edb1))
+    (pin "24" (uuid 01c88208-3856-4c8f-b9e7-b75c2194edb4))
+    (pin "24" (uuid 01c88208-3856-4c8f-b9e7-b75c2194edb4))
     (pin "26" (uuid 4899503f-2899-4f70-b070-efe40acd76bd))
     (pin "27" (uuid bca19732-9c64-4f69-b720-342b92c97857))
     (pin "28" (uuid 87ec7e31-9a38-4117-8410-264d40f2aeb8))
@@ -5057,7 +5057,7 @@
     (uuid 00000000-0000-0000-0000-00006126d89d)
     (property "Reference" "D3" (id 0) (at 41.275 184.15 0))
     (property "Value" "GREEN" (id 1) (at 41.0972 178.4096 0))
-    (property "Footprint" "LED_SMD:LED_0603_1608Metric_Castellated" (id 2) (at 41.275 181.61 0)
+    (property "Footprint" "LED_SMD:LED_0603_1608Metric" (id 2) (at 41.275 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 41.275 181.61 0)
@@ -6177,7 +6177,7 @@
     (uuid a0139dbf-800f-4b31-affb-7aba7e231628)
     (property "Reference" "J2" (id 0) (at 313.69 111.76 0))
     (property "Value" "USB_C_Receptacle_USB2.0" (id 1) (at 309.88 127 90))
-    (property "Footprint" "Connector_USB:USB_C_Receptacle_JAE_DX07S024WJ3R400" (id 2) (at 325.12 127 0)
+    (property "Footprint" "D1(Motherboard):GCT_USB4120-03-C" (id 2) (at 325.12 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (id 3) (at 325.12 127 0)
@@ -6821,7 +6821,7 @@
       (reference "D2") (unit 1) (value "1N4148WS-7-F") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/00000000-0000-0000-0000-00006126d89d"
-      (reference "D3") (unit 1) (value "GREEN") (footprint "LED_SMD:LED_0603_1608Metric_Castellated")
+      (reference "D3") (unit 1) (value "GREEN") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00006132caea"
       (reference "D4") (unit 1) (value "BAT54GWJ") (footprint "Diode_SMD:D_SOD-123")
@@ -6842,7 +6842,7 @@
       (reference "J1") (unit 1) (value "WR-FPC_0.5mm_ZIF_V") (footprint "D1(Motherboard):WR-FPC_0.50_SMT_ZIF_V")
     )
     (path "/a0139dbf-800f-4b31-affb-7aba7e231628"
-      (reference "J2") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_JAE_DX07S024WJ3R400")
+      (reference "J2") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "D1(Motherboard):GCT_USB4120-03-C")
     )
     (path "/00000000-0000-0000-0000-000061240a63"
       (reference "J3") (unit 1) (value "B2B-PH-K-S") (footprint "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical")
