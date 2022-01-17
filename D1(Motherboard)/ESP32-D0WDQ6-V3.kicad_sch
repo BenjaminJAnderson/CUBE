@@ -1596,7 +1596,7 @@
     (uuid b83dbcfc-a2b7-4ab0-9632-25e3d080864c)
     (property "Reference" "U7" (id 0) (at 109.855 47.5955 0))
     (property "Value" "ESP32-D0WDQ6-V3" (id 1) (at 109.855 50.3706 0))
-    (property "Footprint" "Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm" (id 2) (at 115.57 86.995 0)
+    (property "Footprint" "Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.3x4.3mm" (id 2) (at 115.57 86.995 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf" (id 3) (at 115.57 86.995 0)
