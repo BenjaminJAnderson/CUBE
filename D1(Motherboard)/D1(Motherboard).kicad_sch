@@ -3613,6 +3613,11 @@
     (effects (font (size 5 5) (thickness 1) bold italic) (justify left bottom))
     (uuid badb13f3-3d00-4ded-8945-2cb3eefd0f0b)
   )
+  (text "TRIPLE CHECK THE CORRECT REFERENCES\nFOR LOAD SHARING CIRCUIT! LOOKS WRONG FROM\nFIRST GLANCE WITH 5V, VBUS AND VBAT"
+    (at -17.78 267.97 0)
+    (effects (font (size 7 7) (thickness 1) bold) (justify left bottom))
+    (uuid bd6b6d07-bcc0-4e70-87e3-edf6a5aca5a3)
+  )
   (text "DOUBLE CHECK DISPLAY CONNECTOR/BOARD CONNECTORS ARE CORRECT"
     (at 224.79 278.13 0)
     (effects (font (size 5 5) (thickness 1) bold italic) (justify left bottom))
@@ -6155,7 +6160,7 @@
   (symbol (lib_id "power:VBUS") (at 167.64 170.18 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bc3cf1c9-21e5-41ac-a860-04a6c449dfac)
-    (property "Reference" "#PWR?" (id 0) (at 167.64 173.99 0)
+    (property "Reference" "#PWR0156" (id 0) (at 167.64 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VBUS" (id 1) (at 169.037 169.389 0)
@@ -6623,6 +6628,9 @@
     (path "/00000000-0000-0000-0000-0000617db9d7"
       (reference "#PWR0155") (unit 1) (value "GND") (footprint "")
     )
+    (path "/bc3cf1c9-21e5-41ac-a860-04a6c449dfac"
+      (reference "#PWR0156") (unit 1) (value "VBUS") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-0000618789fb"
       (reference "#PWR0157") (unit 1) (value "+BATT") (footprint "")
     )
@@ -6652,9 +6660,6 @@
     )
     (path "/55acbe99-c906-4a3c-a508-a08335067413"
       (reference "#PWR0166") (unit 1) (value "VBUS") (footprint "")
-    )
-    (path "/bc3cf1c9-21e5-41ac-a860-04a6c449dfac"
-      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000061233b33"
       (reference "#U0101") (unit 1) (value "13V") (footprint "")
