@@ -1,4 +1,4 @@
 (fp_lib_table
   (lib (name "D1(Motherboard)")(type "KiCad")(uri "${KIPRJMOD}/D1(Motherboard).pretty")(options "")(descr ""))
-  (lib (name "Espressif")(type "KiCad")(uri "/home/benjamin/Documents/KiCAD Projects/CUBE/Resources/ESP32/ESP32 Library/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/Resources/ESP32/ESP32 Library/footprints/Espressif.pretty")(options "")(descr ""))
 )
