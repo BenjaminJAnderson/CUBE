@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "D1(Motherboard)")(type "KiCad")(uri "${KIPRJMOD}/D1(Motherboard).pretty")(options "")(descr ""))
   (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/Resources/ESP32/ESP32 Library/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "Ignion_Antenna")(type "KiCad")(uri "${KIPRJMOD}/Resources/Antenna/Ignion_Antenna.pretty")(options "")(descr ""))
 )
