@@ -1,6 +1,6 @@
 (footprint "GCT_USB4120-03-C" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61E44109)
+  (tedit 61EC09D8)
   (attr through_hole)
   (fp_text reference "REF**" (at -1.524 -3.937) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -54,7 +54,7 @@
   (pad "S2" thru_hole oval (at -2.4 2.15) (size 2.2 1.1) (drill oval 0.85 0.6) (layers *.Cu *.Mask) (tstamp bc35943f-a590-4110-881f-43b94dc3ef60))
   (pad "S3" thru_hole oval (at 2.4 -2.15) (size 2.2 1.1) (drill oval 0.85 0.6) (layers *.Cu *.Mask) (tstamp 6388b06e-af5c-405f-b16c-ee4225810f35))
   (pad "S4" thru_hole oval (at 2.4 2.15) (size 2.2 1.1) (drill oval 0.85 0.6) (layers *.Cu *.Mask) (tstamp ad1c7d30-fa47-47fd-bb07-e836ca23dcc6))
-  (model "/home/benjamin/Documents/KiCAD Projects/CUBE/Resources/Wire-to-Board Connectors/USB4120-03-C_REVA.step"
+  (model "${KIPRJMOD}/Resources/Connectors/USB C Connector/USB4120-03-C_REVA.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
