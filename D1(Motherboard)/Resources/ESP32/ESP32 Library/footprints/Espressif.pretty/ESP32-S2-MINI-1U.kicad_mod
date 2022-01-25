@@ -1,6 +1,6 @@
 (footprint "ESP32-S2-MINI-1U" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61EFE90C)
+  (tedit 61F02861)
   (descr "ESP32-S2-MINI-1 and ESP32-S2-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-s2-mini-1_esp32-s2-mini-1u_datasheet_en.pdf")
   (tags "ESP32-S2")
   (attr smd)
