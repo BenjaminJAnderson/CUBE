@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name D3)(type KiCad)(uri ${KIPRJMOD}/D3.pretty)(options "")(descr ""))
-)

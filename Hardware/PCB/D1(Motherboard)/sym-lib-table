@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "Adafruit_1.5_128x128_RGB_OLED")(type "KiCad")(uri "${KIPRJMOD}/Resources/Display/Adafruit_1.5_128x128_RGB_OLED.kicad_sym")(options "")(descr ""))
+  (lib (name "D1(Motherboard)-rescue")(type "KiCad")(uri "${KIPRJMOD}/D1(Motherboard)-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/Resources/ESP32/ESP32 Library/libraries/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4120-03-C_REVA")(type "KiCad")(uri "${KIPRJMOD}/Resources/Connectors/USB C Connector/USB4120-03-C_REVA.kicad_sym")(options "")(descr ""))
+)
